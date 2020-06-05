@@ -8,3 +8,6 @@ body {
 		color-stop(76%, indigo),
 		color-stop(1.00, pink));
 }
+element.style {
+	visibility: hidden;
+}
